@@ -24,7 +24,6 @@ This bar chart provides a detailed look at the species and groups that make up t
 - **Python 3.x**: For data cleaning and visualization.
 - **Google Colab**: Used as the primary environment for executing visualization scripts.
 - **GitHub Copilot**: Assisted in optimizing the visualization code and data grouping logic.
-- [Bio.tools](https://bio.tools/): Referenced for standard bioinformatics tool descriptions (MegaBLAST, Krona).
 
 ---
 
