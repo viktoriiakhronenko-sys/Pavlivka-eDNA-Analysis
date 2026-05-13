@@ -17,6 +17,23 @@ This bar chart provides a detailed look at the species and groups that make up t
 ![Minority Bar Chart](minority_details.png)
 
 ---
+## 📈 Ecological Diversity Analysis (Mlyn Station)
+
+Beyond simple identification, we performed a mathematical analysis of the ecosystem's health using diversity indices. These metrics account for both the number of species and how evenly individuals are distributed among them.
+
+### Biodiversity Metrics
+![Diversity Analysis](ecolog.ind.pavlivka.png)
+
+| Metric | Value | Interpretation |
+| :--- | :--- | :--- |
+| **Species Richness** | [65] | Total number of unique species found |
+| **Shannon Index (H)** | [1.819] | Measures uncertainty; higher values mean higher stability |
+| **Simpson's Index (1-D)** | [0.740] | Probability that two random individuals belong to different species |
+
+### Scientific Conclusion
+A value of 1.819 is significantly high for freshwater ecosystems (typically ranging between 1.5 and 3.5). This indicates a very high species richness and a well-balanced community at the Mlyn station. The ecosystem is complex enough to be resilient against external environmental pressures.
+The score of 0.740 (close to the maximum of 1.0) means there is a 74% chance that two random organisms from your sample will be different species. This proves that the Pavlivka River at this point is not dominated by a single "pollution-tolerant" species, which is a key indicator of a clean and healthy environment.
+Conclusion: The combination of a high Shannon Index and a near-perfect Simpson Index confirms that the Pavlivka station serves as a biodiversity hotspot. The data suggests minimal anthropogenic stress and a high capacity for self-regulation within the aquatic community.
 
 ## 🛠 Tools Used
 
