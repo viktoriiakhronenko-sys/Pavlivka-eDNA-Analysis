@@ -90,7 +90,7 @@ The raw bioinformatic outputs are available in this repository:
 * `translate.txt`: Full amino acid translation report.
   
 ---
-## 🛠 Tools Used
+##  Tools Used
 
 - **Galaxy Europe**: For primary sequence processing and taxonomic assignment.
 - **Python 3.x**: For data cleaning and visualization.
@@ -99,20 +99,9 @@ The raw bioinformatic outputs are available in this repository:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `Final_eDNA_Report_Pavlivka.csv`: The complete merged dataset containing BLAST and BOLD results.
 - `visualize_edna.py`: Python script used to generate the charts.
 - `main_composition.png`: High-resolution pie chart image.
 - `minority_details.png`: Detailed bar chart of rare taxa.
-
----
-
-## 🚀 How to Run the Script
-
-If you want to reproduce these visualizations:
-
-1. Clone this repository.
-2. Ensure you have `pandas` and `matplotlib` installed:
-   ```bash
-   pip install pandas matplotlib
