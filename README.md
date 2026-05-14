@@ -55,8 +55,7 @@ To ensure the sequences were not degraded "noise" or non-functional pseudogenes,
 We reconstructed the evolutionary history of the Pavlivka taxa to verify that their genetic distances align with established biological systematics.
 
 * **Algorithm:** Neighbor-Joining (NJ) based on the **Kimura 2-parameter (K2P)** model.
-* **Visualization:** ![Phylogenetic Tree](image(1).svg) 
-*(Note: Replace 'your_image_name_here.png' with the actual filename you uploaded to GitHub)*
+* **Visualization:** ![Phylogenetic Tree](pavlivka.png)
 
 * **Structure (based on `.tree` and `.nj` files):**
     * **Chordata Cluster:** High-order grouping of *Esox lucius* (Pike), *Perca fluviatilis* (Perch), and *Sus scrofa* (Wild Boar).
