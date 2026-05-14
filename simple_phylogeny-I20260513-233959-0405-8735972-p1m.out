@@ -1,0 +1,79 @@
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence format is Pearson
+Sequence 1: Esox_lucius_Pike_Fish             730 bp
+Sequence 2: Perca_fluviatilis_Perch_Fish      730 bp
+Sequence 3: Sus_scrofa_Wild_Boar              730 bp
+Sequence 4: Ephydatia_fluviatilis_Sponge      730 bp
+Sequence 5: Ephydatia_muelleri_Sponge         730 bp
+Sequence 6: Environmental_Sample_A06          730 bp
+Sequence 7: Stylaria_lacustris_Worm           730 bp
+Sequence 8: Rotifer_clone_ST1B                730 bp
+Sequence 9: Invertebrate_Clone_101-8729       730 bp
+Sequence 10: Uncultured_Rotifer_Clone          730 bp
+
+           Esox_lucius_Pike_Fish 
+           Perca_fluviatilis_Perch_Fish 
+           Sus_scrofa_Wild_Boar 
+           Ephydatia_fluviatilis_Sponge 
+           Ephydatia_muelleri_Sponge 
+           Environmental_Sample_A06 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Perca_fluviatilis_Perch_Fish 
+           Sus_scrofa_Wild_Boar 
+           Ephydatia_fluviatilis_Sponge 
+           Ephydatia_muelleri_Sponge 
+           Environmental_Sample_A06 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Sus_scrofa_Wild_Boar 
+           Ephydatia_fluviatilis_Sponge 
+           Ephydatia_muelleri_Sponge 
+           Environmental_Sample_A06 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Ephydatia_fluviatilis_Sponge 
+           Ephydatia_muelleri_Sponge 
+           Environmental_Sample_A06 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Ephydatia_muelleri_Sponge 
+           Environmental_Sample_A06 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Environmental_Sample_A06 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Stylaria_lacustris_Worm 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Rotifer_clone_ST1B 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Invertebrate_Clone_101-8729 
+           Uncultured_Rotifer_Clone 
+           Uncultured_Rotifer_Clone 
+perc identity file created:   [simple_phylogeny-I20260513-233959-0405-8735972-p1m.pim]
+
+Phylogenetic tree file created:   [simple_phylogeny-I20260513-233959-0405-8735972-p1m.nj]
+
+Phylogenetic tree file created:   [simple_phylogeny-I20260513-233959-0405-8735972-p1m.ph]
+

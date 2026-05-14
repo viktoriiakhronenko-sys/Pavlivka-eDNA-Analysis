@@ -1,0 +1,176 @@
+# DNA_sequence 
+stylarialactstrisreliabletacattatatttaattctaggagtatgagctggaataattggtacaggaacaagaatactaattcgaattgaattatctcaaccaggagcatttcttggaagagaccaactatataatactctagtaactgcacatgcatttctaataattttcttcttagtaatgcctgtatttattggaggatttggaaattgattacttccattaatactaggagccccagatatggcattcccacgacttaataatataagattttgactattaccgccctcattaatcttactaatctcatcagctgcagtagaaaaaggtgctggtactggatgaactgtatatccacctctatctagaaatttagcacacgctggtccatcagtagatatggctattttttcacttcatttagccggtgcttcttctattttaggagcagtaaattttattacaacagtaataaatatacgatgaaatgggatacgtctagaacgagtaccattatttgtatgagctgtaacacttacagtaattcttcttctactatcattaccagtactagcaggagctattactatattactaacagatcgaaatctaaatacatcattctttgacccagcaggaggtggagaccctattttatatcaacatttattt
+# 
+                        5'3' Frame 1
+                    
+
+                        sty lar ial act str isr eli abl eta cat tat att taa ttc tag gag tat gag ctg gaa 
+ X   X   X   T   X   X   X   X   X   H   Y   I   -   F   -   E   Y   E   L   E  
+taa ttg gta cag gaa caa gaa tac taa ttc gaa ttg aat tat ctc aac cag gag cat ttc 
+ -   L   V   Q   E   Q   E   Y   -   F   E   L   N   Y   L   N   Q   E   H   F  
+ttg gaa gag acc aac tat ata ata ctc tag taa ctg cac atg cat ttc taa taa ttt tct 
+ L   E   E   T   N   Y   M   M   L   -   -   L   H   M   H   F   -   -   F   S  
+tct tag taa tgc ctg tat tta ttg gag gat ttg gaa att gat tac ttc cat taa tac tag 
+ S   -   -   C   L   Y   L   L   E   D   L   E   I   D   Y   F   H   -   Y   -  
+gag ccc cag ata tgg cat tcc cac gac tta ata ata taa gat ttt gac tat tac cgc cct 
+ E   P   Q   M   W   H   S   H   D   L   M   M   -   D   F   D   Y   Y   R   P  
+cat taa tct tac taa tct cat cag ctg cag tag aaa aag gtg ctg gta ctg gat gaa ctg 
+ H   -   S   Y   -   S   H   Q   L   Q   -   K   K   V   L   V   L   D   E   L  
+tat atc cac ctc tat cta gaa att tag cac acg ctg gtc cat cag tag ata tgg cta ttt 
+ Y   I   H   L   Y   L   E   I   -   H   T   L   V   H   Q   -   M   W   L   F  
+ttt cac ttc att tag ccg gtg ctt ctt cta ttt tag gag cag taa att tta tta caa cag 
+ F   H   F   I   -   P   V   L   L   L   F   -   E   Q   -   I   L   L   Q   Q  
+taa taa ata tac gat gaa atg gga tac gtc tag aac gag tac cat tat ttg tat gag ctg 
+ -   -   M   Y   D   E   M   G   Y   V   -   N   E   Y   H   Y   L   Y   E   L  
+taa cac tta cag taa ttc ttc ttc tac tat cat tac cag tac tag cag gag cta tta cta 
+ -   H   L   Q   -   F   F   F   Y   Y   H   Y   Q   Y   -   Q   E   L   L   L  
+tat tac taa cag atc gaa atc taa ata cat cat tct ttg acc cag cag gag gtg gag acc 
+ Y   Y   -   Q   I   E   I   -   M   H   H   S   L   T   Q   Q   E   V   E   T  
+cta ttt tat atc aac att tat tt
+ L   F   Y   I   N   I   Y  
+                    
+# 
+                        5'3' Frame 2
+                    
+
+                        styl ari ala cts tri sre lia ble tac att ata ttt aat tct agg agt atg agc tgg aat 
+  X   X   X   X   X   X   X   X   Y   I   M   F   N   S   S   S   M   S   W   N  
+aat tgg tac agg aac aag aat act aat tcg aat tga att atc tca acc agg agc att tct 
+ N   W   Y   S   N   K   N   T   N   S   N   W   I   I   S   T   S   S   I   S  
+tgg aag aga cca act ata taa tac tct agt aac tgc aca tgc att tct aat aat ttt ctt 
+ W   K   S   P   T   M   -   Y   S   S   N   C   T   C   I   S   N   N   F   L  
+ctt agt aat gcc tgt att tat tgg agg att tgg aaa ttg att act tcc att aat act agg 
+ L   S   N   A   C   I   Y   W   S   I   W   K   L   I   T   S   I   N   T   S  
+agc ccc aga tat ggc att ccc acg act taa taa tat aag att ttg act att acc gcc ctc 
+ S   P   S   Y   G   I   P   T   T   -   -   Y   K   I   L   T   I   T   A   L  
+att aat ctt act aat ctc atc agc tgc agt aga aaa agg tgc tgg tac tgg atg aac tgt 
+ I   N   L   T   N   L   I   S   C   S   S   K   S   C   W   Y   W   M   N   C  
+ata tcc acc tct atc tag aaa ttt agc aca cgc tgg tcc atc agt aga tat ggc tat ttt 
+ M   S   T   S   I   -   K   F   S   T   R   W   S   I   S   S   Y   G   Y   F  
+ttc act tca ttt agc cgg tgc ttc ttc tat ttt agg agc agt aaa ttt tat tac aac agt 
+ F   T   S   F   S   R   C   F   F   Y   F   S   S   S   K   F   Y   Y   N   S  
+aat aaa tat acg atg aaa tgg gat acg tct aga acg agt acc att att tgt atg agc tgt 
+ N   K   Y   T   M   K   W   D   T   S   S   T   S   T   I   I   C   M   S   C  
+aac act tac agt aat tct tct tct act atc att acc agt act agc agg agc tat tac tat 
+ N   T   Y   S   N   S   S   S   T   I   I   T   S   T   S   S   S   Y   Y   Y  
+att act aac aga tcg aaa tct aaa tac atc att ctt tga ccc agc agg agg tgg aga ccc 
+ I   T   N   S   S   K   S   K   Y   I   I   L   W   P   S   S   S   W   S   P  
+tat ttt ata tca aca ttt att t
+ Y   F   M   S   T   F   I  
+                    
+# 
+                        5'3' Frame 3
+                    
+
+                        styla ria lac tst ris rel iab let aca tta tat tta att cta gga gta tga gct gga ata 
+   X   X   X   X   X   X   X   X   T   L   Y   L   I   L   G   V   W   A   G   M  
+att ggt aca gga aca aga ata cta att cga att gaa tta tct caa cca gga gca ttt ctt 
+ I   G   T   G   T   S   M   L   I   R   I   E   L   S   Q   P   G   A   F   L  
+gga aga gac caa cta tat aat act cta gta act gca cat gca ttt cta ata att ttc ttc 
+ G   S   D   Q   L   Y   N   T   L   V   T   A   H   A   F   L   M   I   F   F  
+tta gta atg cct gta ttt att gga gga ttt gga aat tga tta ctt cca tta ata cta gga 
+ L   V   M   P   V   F   I   G   G   F   G   N   W   L   L   P   L   M   L   G  
+gcc cca gat atg gca ttc cca cga ctt aat aat ata aga ttt tga cta tta ccg ccc tca 
+ A   P   D   M   A   F   P   R   L   N   N   M   S   F   W   L   L   P   P   S  
+tta atc tta cta atc tca tca gct gca gta gaa aaa ggt gct ggt act gga tga act gta 
+ L   I   L   L   I   S   S   A   A   V   E   K   G   A   G   T   G   W   T   V  
+tat cca cct cta tct aga aat tta gca cac gct ggt cca tca gta gat atg gct att ttt 
+ Y   P   P   L   S   S   N   L   A   H   A   G   P   S   V   D   M   A   I   F  
+tca ctt cat tta gcc ggt gct tct tct att tta gga gca gta aat ttt att aca aca gta 
+ S   L   H   L   A   G   A   S   S   I   L   G   A   V   N   F   I   T   T   V  
+ata aat ata cga tga aat ggg ata cgt cta gaa cga gta cca tta ttt gta tga gct gta 
+ M   N   M   R   W   N   G   M   R   L   E   R   V   P   L   F   V   W   A   V  
+aca ctt aca gta att ctt ctt cta cta tca tta cca gta cta gca gga gct att act ata 
+ T   L   T   V   I   L   L   L   L   S   L   P   V   L   A   G   A   I   T   M  
+tta cta aca gat cga aat cta aat aca tca ttc ttt gac cca gca gga ggt gga gac cct 
+ L   L   T   D   R   N   L   N   T   S   F   F   D   P   A   G   G   G   D   P  
+att tta tat caa cat tta ttt 
+ I   L   Y   Q   H   L   F  
+                    
+# 
+                        3'5' Frame 1
+                    
+
+                        aaa taa atg ttg ata taa aat agg gtc tcc acc tcc tgc tgg gtc aaa gaa tga tgt att 
+ K   -   M   L   M   -   N   S   V   S   T   S   C   W   V   K   E   W   C   I  
+tag att tcg atc tgt tag taa tat agt aat agc tcc tgc tag tac tgg taa tga tag tag 
+ -   I   S   I   C   -   -   Y   S   N   S   S   C   -   Y   W   -   W   -   -  
+aag aag aat tac tgt aag tgt tac agc tca tac aaa taa tgg tac tcg ttc tag acg tat 
+ K   K   N   Y   C   K   C   Y   S   S   Y   K   -   W   Y   S   F   -   T   Y  
+ccc att tca tcg tat att tat tac tgt tgt aat aaa att tac tgc tcc taa aat aga aga 
+ P   I   S   S   Y   I   Y   Y   C   C   N   K   I   Y   C   S   -   N   S   S  
+agc acc ggc taa atg aag tga aaa aat agc cat atc tac tga tgg acc agc gtg tgc taa 
+ S   T   G   -   M   K   W   K   N   S   H   I   Y   W   W   T   S   V   C   -  
+att tct aga tag agg tgg ata tac agt tca tcc agt acc agc acc ttt ttc tac tgc agc 
+ I   S   S   -   S   W   M   Y   S   S   S   S   T   S   T   F   F   Y   C   S  
+tga tga gat tag taa gat taa tga ggg cgg taa tag tca aaa tct tat att att aag tcg 
+ W   W   D   -   -   D   -   W   G   R   -   -   S   K   S   Y   I   I   K   S  
+tgg gaa tgc cat atc tgg ggc tcc tag tat taa tgg aag taa tca att tcc aaa tcc tcc 
+ W   E   C   H   I   W   G   S   -   Y   -   W   K   -   S   I   S   K   S   S  
+aat aaa tac agg cat tac taa gaa gaa aat tat tag aaa tgc atg tgc agt tac tag agt 
+ N   K   Y   S   H   Y   -   E   E   N   Y   -   K   C   M   C   S   Y   -   S  
+att ata tag ttg gtc tct tcc aag aaa tgc tcc tgg ttg aga taa ttc aat tcg aat tag 
+ I   M   -   L   V   S   S   K   K   C   S   W   L   S   -   F   N   S   N   -  
+tat tct tgt tcc tgt acc aat tat tcc agc tca tac tcc tag aat taa ata taa tgt ael 
+ Y   S   C   S   C   T   N   Y   S   S   S   Y   S   -   N   -   M   -   C   X  
+bti ler sir asa gtl tir tly as
+ X   X   X   X   X   X   X  
+                    
+# 
+                        3'5' Frame 2
+                    
+
+                        aaat aaa tgt tga tat aaa ata ggg tct cca cct cct gct ggg tca aag aat gat gta ttt 
+  N   K   C   W   Y   K   M   G   S   P   P   P   A   G   S   K   N   D   V   F  
+aga ttt cga tct gtt agt aat ata gta ata gct cct gct agt act ggt aat gat agt aga 
+ S   F   R   S   V   S   N   M   V   M   A   P   A   S   T   G   N   D   S   S  
+aga aga att act gta agt gtt aca gct cat aca aat aat ggt act cgt tct aga cgt atc 
+ S   S   I   T   V   S   V   T   A   H   T   N   N   G   T   R   S   S   R   I  
+cca ttt cat cgt ata ttt att act gtt gta ata aaa ttt act gct cct aaa ata gaa gaa 
+ P   F   H   R   M   F   I   T   V   V   M   K   F   T   A   P   K   M   E   E  
+gca ccg gct aaa tga agt gaa aaa ata gcc ata tct act gat gga cca gcg tgt gct aaa 
+ A   P   A   K   W   S   E   K   M   A   M   S   T   D   G   P   A   C   A   K  
+ttt cta gat aga ggt gga tat aca gtt cat cca gta cca gca cct ttt tct act gca gct 
+ F   L   D   S   G   G   Y   T   V   H   P   V   P   A   P   F   S   T   A   A  
+gat gag att agt aag att aat gag ggc ggt aat agt caa aat ctt ata tta tta agt cgt 
+ D   E   I   S   K   I   N   E   G   G   N   S   Q   N   L   M   L   L   S   R  
+ggg aat gcc ata tct ggg gct cct agt att aat gga agt aat caa ttt cca aat cct cca 
+ G   N   A   M   S   G   A   P   S   I   N   G   S   N   Q   F   P   N   P   P  
+ata aat aca ggc att act aag aag aaa att att aga aat gca tgt gca gtt act aga gta 
+ M   N   T   G   I   T   K   K   K   I   I   S   N   A   C   A   V   T   S   V  
+tta tat agt tgg tct ctt cca aga aat gct cct ggt tga gat aat tca att cga att agt 
+ L   Y   S   W   S   L   P   S   N   A   P   G   W   D   N   S   I   R   I   S  
+att ctt gtt cct gta cca att att cca gct cat act cct aga att aaa tat aat gta elb 
+ I   L   V   P   V   P   I   I   P   A   H   T   P   S   I   K   Y   N   V   X  
+til ers ira sag tlt irt lya s
+ X   X   X   X   X   X   X  
+                    
+# 
+                        3'5' Frame 3
+                    
+
+                        aaata aat gtt gat ata aaa tag ggt ctc cac ctc ctg ctg ggt caa aga atg atg tat tta 
+   M   N   V   D   M   K   -   G   L   H   L   L   L   G   Q   S   M   M   Y   L  
+gat ttc gat ctg tta gta ata tag taa tag ctc ctg cta gta ctg gta atg ata gta gaa 
+ D   F   D   L   L   V   M   -   -   -   L   L   L   V   L   V   M   M   V   E  
+gaa gaa tta ctg taa gtg tta cag ctc ata caa ata atg gta ctc gtt cta gac gta tcc 
+ E   E   L   L   -   V   L   Q   L   M   Q   M   M   V   L   V   L   D   V   S  
+cat ttc atc gta tat tta tta ctg ttg taa taa aat tta ctg ctc cta aaa tag aag aag 
+ H   F   I   V   Y   L   L   L   L   -   -   N   L   L   L   L   K   -   K   K  
+cac cgg cta aat gaa gtg aaa aaa tag cca tat cta ctg atg gac cag cgt gtg cta aat 
+ H   R   L   N   E   V   K   K   -   P   Y   L   L   M   D   Q   R   V   L   N  
+ttc tag ata gag gtg gat ata cag ttc atc cag tac cag cac ctt ttt cta ctg cag ctg 
+ F   -   M   E   V   D   M   Q   F   I   Q   Y   Q   H   L   F   L   L   Q   L  
+atg aga tta gta aga tta atg agg gcg gta ata gtc aaa atc tta tat tat taa gtc gtg 
+ M   S   L   V   S   L   M   S   A   V   M   V   K   I   L   Y   Y   -   V   V  
+gga atg cca tat ctg ggg ctc cta gta tta atg gaa gta atc aat ttc caa atc ctc caa 
+ G   M   P   Y   L   G   L   L   V   L   M   E   V   I   N   F   Q   I   L   Q  
+taa ata cag gca tta cta aga aga aaa tta tta gaa atg cat gtg cag tta cta gag tat 
+ -   M   Q   A   L   L   S   S   K   L   L   E   M   H   V   Q   L   L   E   Y  
+tat ata gtt ggt ctc ttc caa gaa atg ctc ctg gtt gag ata att caa ttc gaa tta gta 
+ Y   M   V   G   L   F   Q   E   M   L   L   V   E   M   I   Q   F   E   L   V  
+ttc ttg ttc ctg tac caa tta ttc cag ctc ata ctc cta gaa tta aat ata atg tae lbt 
+ F   L   F   L   Y   Q   L   F   Q   L   M   L   L   E   L   N   M   M   X   X  
+ile rsi ras agt lti rtl yas 
+ X   X   X   S   X   X   X  
+                    
