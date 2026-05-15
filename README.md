@@ -17,7 +17,7 @@ This bar chart provides a detailed look at the species and groups that make up t
 ![Minority Bar Chart](minority_details.png)
 
 ---
-##  Ecological Diversity Analysis (Mlyn Station)
+##  Ecological Diversity Analysis 
 
 Beyond simple identification, we performed a mathematical analysis of the ecosystem's health using diversity indices. These metrics account for both the number of species and how evenly individuals are distributed among them.
 
