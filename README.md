@@ -6,12 +6,12 @@ This project focuses on analyzing environmental DNA (eDNA) samples from the Pavl
 
 Below are the results of the taxonomic analysis. These charts were generated using Python (Pandas & Matplotlib) based on the processed eDNA datasets.
 
-### 1. General Taxonomic Composition (Main Groups)
+### General Taxonomic Composition (Main Groups)
 This pie chart displays the dominant Phyla found in the river. To maintain clarity, all groups representing less than 2% of the total diversity are grouped into the **"Others"** category.
 
 ![Taxonomic Pie Chart](main_composition.png)
 
-### 2. Rare Biosphere (Minority Taxa)
+### Rare Biosphere (Minority Taxa)
 This bar chart provides a detailed look at the species and groups that make up the "Others" category (less than 2% of the total sample). Identifying these rare taxa is crucial for understanding the full biodiversity of the ecosystem.
 
 ![Minority Bar Chart](minority_details.png)
@@ -42,7 +42,7 @@ Conclusion: The combination of a high Shannon Index and a near-perfect Simpson I
 
 This section details the bioinformatic validation and evolutionary analysis of environmental DNA (eDNA) recovered from the **Pavlivka ecosystem**. These steps ensure the taxonomic identifications are biologically grounded and statistically significant.
 
-## 1. Molecular Validation (ORF Verification)
+## Molecular Validation (ORF Verification)
 To ensure the sequences were not degraded "noise" or non-functional pseudogenes, we analyzed the coding potential of the 730 bp COI barcodes.
 
 * **Methodology:** The nucleotide sequences were translated into amino acid sequences across three different reading frames.
@@ -51,7 +51,7 @@ To ensure the sequences were not degraded "noise" or non-functional pseudogenes,
 
 
 
-## 2. Phylogenetic Tree Reconstruction
+## Phylogenetic Tree Reconstruction
 We reconstructed the evolutionary history of the Pavlivka taxa to verify that their genetic distances align with established biological systematics.
 
 * **Algorithm:** Neighbor-Joining (NJ) based on the **Kimura 2-parameter (K2P)** model.
@@ -64,7 +64,7 @@ We reconstructed the evolutionary history of the Pavlivka taxa to verify that th
 
 
 
-## 3. Percent Identity Matrix (PIM)
+## Percent Identity Matrix (PIM)
 The following table summarizes the genetic similarity between key taxa. This matrix (derived from `simple_phylogeny-I20260513-233959-0405-8735972-p1m.pim`) provides mathematical evidence for species identification.
 
 | Taxon A | Taxon B | Similarity (%) | Scientific Significance |
@@ -75,7 +75,7 @@ The following table summarizes the genetic similarity between key taxa. This mat
 | *Esox lucius* (Pike) | *Ephydatia* (Sponge) | **71.54%** | Deep evolutionary split between phyla. |
 | *Rotifer* (Microfauna) | *Chordata* (Vertebrates) | **37.90%** | Baseline similarity; indicates maximum distance. |
 
-## 4. Evolutionary Distance Calculation
+## Evolutionary Distance Calculation
 Using the **Kimura 2-parameter model** (as seen in `.nj` and `.out` files), we calculated the percentage divergence:
 
 1.  **Low Divergence (DIST = 0.0427):** Observed between *Esox lucius* and *Perca fluviatilis*, confirming a recent common ancestor.
